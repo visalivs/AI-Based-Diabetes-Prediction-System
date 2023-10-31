@@ -94,7 +94,7 @@ y_pred1 = clf.predict([X_pred1])  # Output: 1 (diabetic)
 -
 -
 - 
-- [@visalivs](hhttps://github.com/visalivs)
+- [@visalivs](https://github.com/visalivs)
 
 
 
